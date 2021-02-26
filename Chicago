@@ -133,7 +133,7 @@
     "# %sql ibm_db_sa://my-username:my-password@my-hostname:my-port/my-db-name\n",
     "# Enter the connection string for your Db2 on Cloud database instance below\n",
     "\n",
-    "%sql ibm_db_sa://ggh64364:q6-9ng5wm7tffljw@dashdb-txn-sbox-yp-dal09-04.services.dal.bluemix.net:50000/BLUDB"
+    "%sql ibm_db_sa://ggh64364:password@dashdb-txn-sbox-yp-dal09-04.services.dal.bluemix.net:50000/BLUDB"
    ]
   },
   {
@@ -161,7 +161,7 @@
     "dsn_port = \"50000\"\n",
     "dsn_protocol = \"TCPIP\"\n",
     "\n",
-    "%sql ibm_db_sa://ggh64364:q6-9ng5wm7tffljw@dashdb-txn-sbox-yp-dal09-04.services.dal.bluemix.net:50000/BLUDB"
+    "%sql ibm_db_sa://ggh64364:password@dashdb-txn-sbox-yp-dal09-04.services.dal.bluemix.net:50000/BLUDB"
    ]
   },
   {
